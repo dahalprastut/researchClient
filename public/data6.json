@@ -1,0 +1,46 @@
+[
+	{
+		"value": [
+			{
+				"id": 1,
+				"name": "Brazil",
+				"population": 999,
+				"label": "A"
+			},
+			{
+				"id": 2,
+				"name": "Bolivia",
+				"population": 2999,
+				"label": "B"
+			},
+			{
+				"id": 3,
+				"name": "Colombia",
+				"population": 1999,
+				"label": "C"
+			},
+			{
+				"id": 4,
+				"name": "Paraguay",
+				"population": 3999,
+				"label": "D"
+			},
+			{
+				"id": 5,
+				"name": "Peru",
+				"population": 4999,
+				"label": "E"
+			}
+		],
+		"questions": [
+			{
+				"question": "Which among these has the highest population value?",
+				"options": ["A", "B", "C", "D"],
+				"correctAnswer": "D",
+				"type": "analogousGreen"
+			}
+		],
+		"domain": [1000, 2000, 3000, 4000, 5000],
+		"colors": ["#36FA00", "#00FA7E", "#00FA29", "#9FFA00", "#00FAD3"]
+	}
+]

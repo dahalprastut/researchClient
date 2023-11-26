@@ -1,0 +1,46 @@
+[
+	{
+		"value": [
+			{
+				"id": 1,
+				"name": "Brazil",
+				"population": 2999,
+				"label": "A"
+			},
+			{
+				"id": 2,
+				"name": "Bolivia",
+				"population": 999,
+				"label": "B"
+			},
+			{
+				"id": 3,
+				"name": "Colombia",
+				"population": 1999,
+				"label": "C"
+			},
+			{
+				"id": 4,
+				"name": "Paraguay",
+				"population": 4999,
+				"label": "D"
+			},
+			{
+				"id": 5,
+				"name": "Peru",
+				"population": 3999,
+				"label": "E"
+			}
+		],
+		"questions": [
+			{
+				"question": "Which among these has the lowest population value?",
+				"options": ["A", "C", "D", "E"],
+				"correctAnswer": "C",
+				"type": "analogousBlue"
+			}
+		],
+		"domain": [1000, 2000, 3000, 4000, 5000],
+		"colors": ["#F72FD7", "#2F5AF7", "#862FF7", "#C72FF7", "#442FF7"]
+	}
+]
